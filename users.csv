@@ -1,4 +1,2 @@
 first_name,last_name,email,password,password_hash_function,org_unit_path,new_email,status,recovery_email,dept,title
-Jim,Halpert,jhalpert@dadgarcorp.org,5f4dcc3b5aa765d61d8327deb882cf99,MD5,/,jhalpert@dadgarcorp.org,Active,jhalpert@gmail.com,sales,agent
-Michael,Scott,mscott@dadgarcorp.org,5f4dcc3b5aa765d61d8327deb882cf99,MD5,/,mscott@dadgarcorp.org,Active,mscott@hotmail.com,sales,manager
-Pam,Beesly,pbeesly@dadgarcorp.org,5f4dcc3b5aa765d61d8327deb882cf99,MD5,/,pbeesly@dadgarcorp.org,Active,pbeesly@gmail.com,admin,receptionist
+Kevin,Ong,kevin@heydude.buzz,heydude20251,MD5,/,jim@heydude.buzz,Active,jim@gmail.com,admin,manager

@@ -2,7 +2,7 @@
 # SPDX-License-Identifier: MIT
 
 terraform {
-  required_version = "~> 1.0.0"
+  required_version = "~> 1.10.0"
   required_providers {
     googleworkspace = {
       source = "hashicorp/googleworkspace"
